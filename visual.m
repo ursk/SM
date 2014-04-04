@@ -41,7 +41,7 @@ Ir = imresize(I+1,mag,'nearest')-1;
 %subplot('position',[0,0,1,1]);
 %maxi=max((I(:)));
 %mini=min((I(:)));
-imagesc(Ir); axis off
+imagesc(Ir); axis image 
 %colormap(jet);
 french
 %colorbar
