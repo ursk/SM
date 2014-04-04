@@ -1,0 +1,1 @@
+This natural image database is available http://research.ics.aalto.fi/ica/data/images/ as part of the ImageICA project http://research.ics.aalto.fi/ica/imageica/ by  Patrik Hoyer and Aapo Hyvärinen. The photographs are copyrighted: © Janne Sinkkonen 1994, 1995, 1996, 1997. Copying is permitted only for noncommercial use. 
