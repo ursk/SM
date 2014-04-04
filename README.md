@@ -1,8 +1,8 @@
 SM
 ==
 
-Overcomplte ICA
-=================
+Overcomplete ICA
+----------------
 
 Simple demo for Score Matching estimation of an Energy-based (i.e. non-normalized) model. The demo is in Matlab. The example we consider is an over-complete ICA model of the form 
 
@@ -24,7 +24,7 @@ after a few 100 iterations, the objective function should reduce to -45 or so, a
 
 
 Markov Random Field (FoE)
-==========================
+----------------
 
 Convolutional energy based model, similar to the Field of Experts by Roth and Black. The demo estimates an MRF on "images" of size 24x24 pixels, which are tiled with filters of 8x8 pixels. The model is estimated with 
 
